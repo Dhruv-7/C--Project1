@@ -1,0 +1,10 @@
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\bin\Debug\MovieListC.exe.config
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\bin\Debug\MovieListC.exe
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\bin\Debug\MovieListC.pdb
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\obj\Debug\MovieListC.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\obj\Debug\MovieListC.Form1.resources
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\obj\Debug\MovieListC.Properties.Resources.resources
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\obj\Debug\MovieListC.csproj.GenerateResource.cache
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\obj\Debug\MovieListC.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\obj\Debug\MovieListC.exe
+C:\Users\dhruv\source\repos\MovieListC\MovieListC\obj\Debug\MovieListC.pdb
